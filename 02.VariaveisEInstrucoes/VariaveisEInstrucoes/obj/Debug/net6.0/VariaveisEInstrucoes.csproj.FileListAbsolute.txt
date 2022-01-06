@@ -1,0 +1,15 @@
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\02.VariaveisEInstrucoes\VariaveisEInstrucoes\obj\Debug\net6.0\VariaveisEInstrucoes.csproj.AssemblyReference.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\02.VariaveisEInstrucoes\VariaveisEInstrucoes\obj\Debug\net6.0\VariaveisEInstrucoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\02.VariaveisEInstrucoes\VariaveisEInstrucoes\obj\Debug\net6.0\VariaveisEInstrucoes.AssemblyInfoInputs.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\02.VariaveisEInstrucoes\VariaveisEInstrucoes\obj\Debug\net6.0\VariaveisEInstrucoes.AssemblyInfo.cs
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\02.VariaveisEInstrucoes\VariaveisEInstrucoes\obj\Debug\net6.0\VariaveisEInstrucoes.csproj.CoreCompileInputs.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\02.VariaveisEInstrucoes\VariaveisEInstrucoes\bin\Debug\net6.0\VariaveisEInstrucoes.exe
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\02.VariaveisEInstrucoes\VariaveisEInstrucoes\bin\Debug\net6.0\VariaveisEInstrucoes.deps.json
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\02.VariaveisEInstrucoes\VariaveisEInstrucoes\bin\Debug\net6.0\VariaveisEInstrucoes.runtimeconfig.json
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\02.VariaveisEInstrucoes\VariaveisEInstrucoes\bin\Debug\net6.0\VariaveisEInstrucoes.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\02.VariaveisEInstrucoes\VariaveisEInstrucoes\bin\Debug\net6.0\ref\VariaveisEInstrucoes.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\02.VariaveisEInstrucoes\VariaveisEInstrucoes\bin\Debug\net6.0\VariaveisEInstrucoes.pdb
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\02.VariaveisEInstrucoes\VariaveisEInstrucoes\obj\Debug\net6.0\VariaveisEInstrucoes.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\02.VariaveisEInstrucoes\VariaveisEInstrucoes\obj\Debug\net6.0\ref\VariaveisEInstrucoes.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\02.VariaveisEInstrucoes\VariaveisEInstrucoes\obj\Debug\net6.0\VariaveisEInstrucoes.pdb
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\02.VariaveisEInstrucoes\VariaveisEInstrucoes\obj\Debug\net6.0\VariaveisEInstrucoes.genruntimeconfig.cache

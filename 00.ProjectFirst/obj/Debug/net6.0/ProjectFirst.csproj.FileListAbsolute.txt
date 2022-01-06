@@ -1,0 +1,15 @@
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\ProjectFirst\bin\Debug\net6.0\ProjectFirst.exe
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\ProjectFirst\bin\Debug\net6.0\ProjectFirst.deps.json
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\ProjectFirst\bin\Debug\net6.0\ProjectFirst.runtimeconfig.json
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\ProjectFirst\bin\Debug\net6.0\ProjectFirst.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\ProjectFirst\bin\Debug\net6.0\ref\ProjectFirst.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\ProjectFirst\bin\Debug\net6.0\ProjectFirst.pdb
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\ProjectFirst\obj\Debug\net6.0\ProjectFirst.csproj.AssemblyReference.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\ProjectFirst\obj\Debug\net6.0\ProjectFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\ProjectFirst\obj\Debug\net6.0\ProjectFirst.AssemblyInfoInputs.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\ProjectFirst\obj\Debug\net6.0\ProjectFirst.AssemblyInfo.cs
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\ProjectFirst\obj\Debug\net6.0\ProjectFirst.csproj.CoreCompileInputs.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\ProjectFirst\obj\Debug\net6.0\ProjectFirst.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\ProjectFirst\obj\Debug\net6.0\ref\ProjectFirst.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\ProjectFirst\obj\Debug\net6.0\ProjectFirst.pdb
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\ProjectFirst\obj\Debug\net6.0\ProjectFirst.genruntimeconfig.cache

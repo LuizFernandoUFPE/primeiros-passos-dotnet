@@ -1,0 +1,25 @@
+Baseado no material de Gabriel Faraday da DIO
+
+As structs são estruturas de dados que podem conter estados e ações, mas as structs são tipos de valor e não requerem alocação de heap(o local de memória onde realmente está o dado que foi referenciado nas classes), as structs simplesmente retorna um local temporário na stack, e o valor é copiado conforme necessário.
+
+Uma variável de um tipo de struct armazena diretamente os dados da estrutura, enquanto uma variávell de um tipo de classe armazena uma referência a um objeto alocado na memória.
+
+Structs não aceitam herança
+
+Úteis para pequenas estruturas de dados que possuem semântica de valor: números complexos, pontos em um sistema de coordenadas ou pares de chaves-valor em dicionários. 
+
+A vantagem é fazer menos alocação de memória
+
+Basta trocar o class por struct para ativar essas particularidades, a estrutura é a mesma 
+
+------------------------------------------------------------------------
+
+Uma interface define um contrato que pode ser implementado por classes e structs, a interface pode conter métodos, propriedades, eventos e indexadores.
+
+A interface pode empregar herança múltipla
+
+Uma interface não fornece implementações dos membros que define, só "assinaturas"
+
+-----------------------------------------------------------------------
+
+Enum é um tipo de valor distingo com um conjunto de constantes nomeadas. Você usa Enumerações quando precisa definir um tipo que pode ter um conjunto de valores discretos. Eles usam um dos tipos de valor integral como armazenamento subjacente. Eles fornecem significado semântico aos valores discretos. 

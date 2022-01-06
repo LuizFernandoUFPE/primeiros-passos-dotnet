@@ -1,0 +1,15 @@
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\05.Revisao\RevisaoIntrodutoria\bin\Debug\net6.0\RevisaoIntrodutoria.exe
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\05.Revisao\RevisaoIntrodutoria\bin\Debug\net6.0\RevisaoIntrodutoria.deps.json
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\05.Revisao\RevisaoIntrodutoria\bin\Debug\net6.0\RevisaoIntrodutoria.runtimeconfig.json
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\05.Revisao\RevisaoIntrodutoria\bin\Debug\net6.0\RevisaoIntrodutoria.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\05.Revisao\RevisaoIntrodutoria\bin\Debug\net6.0\ref\RevisaoIntrodutoria.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\05.Revisao\RevisaoIntrodutoria\bin\Debug\net6.0\RevisaoIntrodutoria.pdb
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\05.Revisao\RevisaoIntrodutoria\obj\Debug\net6.0\RevisaoIntrodutoria.csproj.AssemblyReference.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\05.Revisao\RevisaoIntrodutoria\obj\Debug\net6.0\RevisaoIntrodutoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\05.Revisao\RevisaoIntrodutoria\obj\Debug\net6.0\RevisaoIntrodutoria.AssemblyInfoInputs.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\05.Revisao\RevisaoIntrodutoria\obj\Debug\net6.0\RevisaoIntrodutoria.AssemblyInfo.cs
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\05.Revisao\RevisaoIntrodutoria\obj\Debug\net6.0\RevisaoIntrodutoria.csproj.CoreCompileInputs.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\05.Revisao\RevisaoIntrodutoria\obj\Debug\net6.0\RevisaoIntrodutoria.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\05.Revisao\RevisaoIntrodutoria\obj\Debug\net6.0\ref\RevisaoIntrodutoria.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\05.Revisao\RevisaoIntrodutoria\obj\Debug\net6.0\RevisaoIntrodutoria.pdb
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\Bootcamp\Primeiros passos com .NET\05.Revisao\RevisaoIntrodutoria\obj\Debug\net6.0\RevisaoIntrodutoria.genruntimeconfig.cache

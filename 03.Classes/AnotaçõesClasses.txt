@@ -1,0 +1,43 @@
+Baseado nas aulas de Gabriel Faraday da DIO
+
+Classes: Tipos mais fundamentais do C# 
+
+A classe é o que permite a criação de objetos, afinal vimos que C# segue os paradigmas da progamação orientada a objetos. A classe é uma estrutura de dados que combina estado(campos) e ações(métodos).
+
+Assim, os objetos são instâncias de uma classe. E as classes suportam heranças e polimorfismo.
+
+---------------------------------------------------------------------------
+Os objetos são criados usando o operador "new", que aloca memória para uma nova instância, chama um "construtor" para inicializar a instância e retorna uma referência a instância.
+
+---------------------------------------------------------------------------
+
+Os membros de uma classe podem ser membros estáticos ou membros da instância. 
+
+-Membros estáticos: pertencem a classe
+-Membros de instância: pertencem ao objeto
+
+Ex: Constantes, variáveis, métodos, propriedades, construtores, etc...
+
+---------------------------------------------------------------------------
+
+Cada membros de uma classe tem uma acessibilidade associada, que controla as regiões do texto do programa que podem acessar o membro.
+
+-public: qualquer parte do meu código pode acessá-lo
+
+-protected: em questão de herança, temos uma classe base, e nessa classe outras classes herdam dessa classe base. Se essa classe base tiver um método protected, apenas as classes que herdam da classe base tem acesso ao método protected.
+
+-internal: só é acessado de dentro do assembly que ele faz parte 
+
+-private: acesso único e exclusivo da classe em que ele está contido
+
+---------------------------------------------------------------------------
+
+->Herança: uma declaração de classe pode especificar uma classe base, herdando os membros public, internal e protected da classe base(O internal desde que esteja no mesmo assembly).
+
+Omitir uma especificação de classe base é o mesmo que derivar do tipo object 
+
+---------------------------------------------------------------------------
+-> Um método é um membro que implementa uma computação ou ação que pode ser executada por um objeto ou classe.
+Os métodos podem ter uma lista de parâmetros, que representam valores ou referências de variáveis passadas para o método, e um tipo de retorno, que especifica o tipo do valor calculado e retornado pelo método.
+
+

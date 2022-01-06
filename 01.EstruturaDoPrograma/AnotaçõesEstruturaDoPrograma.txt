@@ -1,0 +1,3 @@
+Csharp - Baseado no material de Gabriel Faraday da DIO
+
+C# é uma linguagem elegante, orientada a objetos e fortemente tipada. Sua sintaxe é semelhante a C, C++ ou Java, e suporta os conceitos de encapsulamento, herança e polimorfismo(Orientação a Objetos)

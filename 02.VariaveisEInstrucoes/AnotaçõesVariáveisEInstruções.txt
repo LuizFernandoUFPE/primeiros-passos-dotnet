@@ -1,0 +1,62 @@
+Baseado no material de Gabriel Faraday da DIO
+
+->Variáveis de tipos de valor contêm sua própria cópia dos dados(com algumas exceções como as variáveis de parâmetro ref e out)
+
+Tipos de Valor:
+
+-Numéricos: sbyte, short, int, long, ushort, uint
+
+-Caracteres Unicode: char
+
+-Pontos flutuantes: float, double, decimal
+
+-Booleano: bool 
+
+-Outros: enum, struct e tipos nullable(Exemplo: int?) 
+
+---------------------------------------------------------------------------
+
+->Variáveis de tipos de referência armazenam referências aos seus dados, é possivel ter duas variáveis referenciado o mesmo objeto, logo, operações em uma variável afetam o objeto referenciado pela outra variável. 
+
+Tipos de Referência:
+
+-Tipos Classe: class, object, string
+
+-Tipos Arrays: int[], int[,], etc..
+
+-Outros: Interface, delegate
+
+---------------------------------------------------------------------------
+
+->Ações de um programa são expressas usando instruções
+
+{
+	Um bloco permite que várias instruções sejam escritas em contextos
+}
+
+Instruções:
+
+-Declaração de variáveis e constantes locais
+-if
+-switch
+-while
+-do
+-for
+-foreach
+
+Instruções Auxiliares:
+
+-break
+-continue
+-return
+-throw
+-try .. catch .. finally
+-using
+
+---------------------------------------------------------------------------
+
+-> Um array é uma estrutura de dados que contém um número X de elementos, todos do mesmo tipo, que são acessados através de índices computados 
+
+Arrays são tipos de referência e a declaração de uma variável array simplesmente reserva espaço para uma referência de uma instância de array
+
+Ao criar um array, temos o tamanho dessa nova instância, que se mantêm o mesmo durante o tempo de vida daquela instância. Os índices dos elementos de um array variam de 0 até o comprimento do array menos 1
