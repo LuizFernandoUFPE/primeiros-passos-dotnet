@@ -1,3 +1,19 @@
 Csharp - Baseado no material de Gabriel Faraday da DIO
 
-C# é uma linguagem elegante, orientada a objetos e fortemente tipada. Sua sintaxe é semelhante a C, C++ ou Java, e suporta os conceitos de encapsulamento, herança e polimorfismo(Orientação a Objetos)
+C# é uma linguagem elegante, orientada a objetos e fortemente tipada. Sua sintaxe é semelhante a C, C++ ou Java, e suporta os conceitos de abstração, encapsulamento, herança e polimorfismo(Orientação a Objetos).
+
+Programas em C# são executados no .NET, o .NET possui a CLR e várias bibliotecas de classes úteis para o seu projeto.
+
+O compilador do C# atualmente é o Roslyn
+
+-------------------------------------------------------------------------
+
+-> Conceitos organizacionais do C#
+
+-programas 
+-namespaces
+-tipos
+-membros
+-assemblies 
+
+Programas C# são formados por um ou mais arquivos, os programas declaram tipos, que contêm membros e podem ser organizados em namespaces
